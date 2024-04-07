@@ -1,0 +1,10 @@
+Hi good afternoon all,
+This is DevOps seassion.
+I am hear to do my Task07 question number: 2
+Given a file, replace all occurrence of the word ""give"" with ""learning"" from the 5th line till the end in only those lines that contain the word "welcome"
+welcome to learning seassion
+The agenda of this seassion is give
+welcome the agenda of this seassion is learning
+welcome the agenda of this seassion is learning
+The agenda of this seassion is give
+welcome "learning" seassion
